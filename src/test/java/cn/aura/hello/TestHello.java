@@ -7,7 +7,7 @@ public class TestHello {
 	@Test
 	public void test(){
 		HelloWorld hw = new HelloWorld();
-		System.out.println(hw.sayHi("zs"));
+		System.out.println(hw.sayHi("zss"));
 				
 	}
 }
